@@ -1,0 +1,3 @@
+/home/marco/Scrivania/progettoIIW/UDP/cmake-build-debug/CMakeFiles/UDP.dir
+/home/marco/Scrivania/progettoIIW/UDP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/Scrivania/progettoIIW/UDP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
